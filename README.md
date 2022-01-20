@@ -10,7 +10,7 @@ Python入門講座に用いたソースコードとクイズのリポジトリ
 
 ## 参考文献
 
-1. 入門 Python3: O`REILLY  (Bill Lubanovic 著)
+1. 入門 Python3: O'REILLY  (Bill Lubanovic 著)
 2. Python実践入門 (陶山 嶺 著) 
 
 <img width="769" alt="スクリーンショット 2022-01-20 21 37 56" src="https://user-images.githubusercontent.com/43877521/150340309-61920caf-c4a5-4ad2-8b4b-9d99968e3810.png">
